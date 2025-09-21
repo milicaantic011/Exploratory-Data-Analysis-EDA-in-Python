@@ -101,21 +101,7 @@ Pie chart showing the distribution of delay causes including carrier issues, wea
 
 ---
 
-## 🚀 Getting Started
-```bash
-# Clone the repository
-git clone https://github.com/milicaantic011/airline-delays-analysis.git
-
-# Navigate to project directory
-cd airline-delays-analysis
-
-# Install required packages
-pip install pandas numpy plotly jupyter
-
-# Run Jupyter Notebook
-jupyter notebook airline_delays_eda.ipynb
-
-📁 Project Structure
+### Project Structure 
 airline-delays-analysis/
 │
 ├── airline_delay.csv                      # Source data
@@ -131,6 +117,25 @@ airline-delays-analysis/
 │   └── delay_types_pie.html
 └── README.md                               # Project documentation
 
-*Last Updated: [21.09.2025.]*
+
+Author
+Milica Antic
+
+GitHub: @milicaantic011
+LinkedIn: Milica Antic
+
+ License
+This project is licensed under the MIT License.
+
+Acknowledgments
+
+Data source: Kaggle Airline Delays Dataset
+Inspiration: Impact of COVID-19 on aviation industry
+Tools: Plotly for interactive visualizations
+
+
+Last Updated: September 2025
+
+
 
 
