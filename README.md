@@ -10,8 +10,11 @@ This project analyzes airline delay patterns in the United States, focusing on t
 Dataset Description
 
 Source: Kaggle Airline Delays Dataset
+
 Timeframe: December 2019 and December 2020
+
 Scope: U.S. domestic flights
+
 Unit of Analysis: Flights aggregated per carrier per U.S. city
 
 
