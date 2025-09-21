@@ -99,7 +99,7 @@ Geographic analysis identifying the most problematic airports with highest delay
 
 Pie chart showing the distribution of delay causes including carrier issues, weather, NAS, security, and late aircraft arrivals.
 
-'''-
+```
 --
 
 airline-delays-analysis/
@@ -111,15 +111,11 @@ airline-delays-analysis/
 ├── airports_delays.png                    # Airports ranking visualization
 ├── delay_types_pie.png                    # Delay types distribution
 ├── visualizations/                        # Folder with HTML interactive versions
-│   ├── correlation_heatmap.html
-│   ├── airlines_delays.html
-│   ├── airports_delays.html
-│   └── delay_types_pie.html
+│  
 └── README.md                               # Project documentation
 
 ---
-'''
-
+```
 
 ## Author
 Milica Antic
