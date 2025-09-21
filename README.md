@@ -77,7 +77,22 @@ The analysis explores:
 
 ---
 
-##  Key Visualizations
+
+
+### Key Visualizations
+
+#### 1. Correlation Matrix Heatmap
+![Correlation Heatmap](Correlation%20Matrix%20Heatmap.png)
+
+#### 2. Pie Chart
+![Pie Chart](Pie%20chart.png)
+
+#### 3. Top 10 Airlines
+![Top 10 Airlines](Top%2010%20Airlines.png)
+
+#### 4. Top 10 Airports
+![Top 10 Airports](Top%2010%20Airports.png)
+
 
 
 
