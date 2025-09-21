@@ -14,6 +14,7 @@ Timeframe: December 2019 and December 2020
 Scope: U.S. domestic flights
 Unit of Analysis: Flights aggregated per carrier per U.S. city
 
+
 Key Features:
 
 arr_flights — Total arrival flights
