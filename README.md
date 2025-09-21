@@ -14,8 +14,11 @@ Unit of Analysis: Flights aggregated per carrier per U.S. city
 Key Features:
 
 arr_flights — Total arrival flights
+
 carrier_ct — Carrier-related delays
+
 weather_ct — Weather-related delays
+
 nas_ct — National Airspace System delays
 security_ct — Security-related delays
 late_aircraft_ct — Late aircraft delays
