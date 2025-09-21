@@ -101,7 +101,6 @@ Pie chart showing the distribution of delay causes including carrier issues, wea
 
 ---
 
-### Project Structure 
 airline-delays-analysis/
 │
 ├── airline_delay.csv                      # Source data
