@@ -109,8 +109,7 @@ airline-delays-analysis/
 ├── correlation_heatmap.png                # Correlation matrix visualization
 ├── airlines_delays.png                    # Airlines ranking visualization
 ├── airports_delays.png                    # Airports ranking visualization
-├── delay_types_pie.png                    # Delay types distribution
-├── visualizations/                        # Folder with HTML interactive versions
+├── delay_types_pie.png                    # Delay types distribution                      
 │  
 └── README.md                               # Project documentation
 
