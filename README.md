@@ -54,24 +54,6 @@ Which carriers performed best/worst in terms of on-time performance
 Geographic hotspots for delays and cancellations
 The relative impact of different delay causes (weather, carrier, system, etc.)
 
- Project Structure
-
-├── data/
-
-│   └── airline_delays.csv
-
-├── notebooks/
-
-│   └── airline_delays_eda.ipynb
-
-├── visualizations/
-
-│   └── [generated plots and charts]
-
-└── README.md
-
-
-
 Key Visualizations
 
 Correlation Matrix Heatmap: Visual analysis of relationships between different delay types, flight volumes, and cancellations to identify patterns and dependencies
