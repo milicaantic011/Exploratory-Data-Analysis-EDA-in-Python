@@ -4,8 +4,11 @@ An in-depth exploratory data analysis of U.S. airline delays comparing December 
 
 
 Project Overview
+
 This project analyzes airline delay patterns in the United States, focusing on the comparison between December 2019 (pre-pandemic) and December 2020 (during pandemic) to understand how COVID-19 impacted flight operations.
+
 Dataset Description
+
 Source: Kaggle Airline Delays Dataset
 Timeframe: December 2019 and December 2020
 Scope: U.S. domestic flights
