@@ -46,25 +46,40 @@ Environment: Jupyter Notebook
 Analysis Goals
 
 Delay Pattern Analysis: Identify main contributors to flight disruptions
+
 Carrier Performance Comparison: Compare delay performance across different airlines
+
 Geographic Analysis: Explore delay patterns across U.S. cities
+
 Pandemic Impact Assessment: Compare 2019 vs 2020 flight operations
+
 Root Cause Analysis: Determine primary causes of delays and cancellations
 
+
 Key Insights
+
+
 The analysis explores:
 
 How the pandemic affected flight volumes and delay patterns
+
 Which carriers performed best/worst in terms of on-time performance
+
 Geographic hotspots for delays and cancellations
+
 The relative impact of different delay causes (weather, carrier, system, etc.)
+
 
 Key Visualizations
 
 Correlation Matrix Heatmap: Visual analysis of relationships between different delay types, flight volumes, and cancellations to identify patterns and dependencies
+
 Top 10 Airlines by Delay Rate: Comparative ranking of carriers based on percentage of delayed flights, highlighting best and worst performing airlines
+
 Top 10 Airports by Delay Rate: Geographic analysis identifying the most problematic airports with highest delay percentages across the U.S.
+
 Interactive Plotly Dashboards: Dynamic visualizations allowing users to filter by time period, carrier, and delay type to explore patterns and trends in real-time
+
 Delay Cause Breakdown: Pie charts and bar plots showing the distribution of delay causes (weather, carrier, NAS, security, late aircraft)
 
 
