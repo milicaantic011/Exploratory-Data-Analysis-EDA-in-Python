@@ -84,37 +84,29 @@ The analysis explores:
 #### 1. Correlation Matrix Heatmap
 ![Correlation Heatmap](Correlation%20Matrix%20Heatmap.png)
 
+Visual analysis of relationships between different delay types, flight volumes, and cancellations to identify patterns and dependencies.
+
 #### 2. Pie Chart
 ![Pie Chart](Pie%20chart.png)
+
+
+Comparative ranking of carriers based on percentage of delayed flights, showing the top 10 airlines with highest delay rates.
 
 #### 3. Top 10 Airlines
 ![Top 10 Airlines](Top%2010%20Airlines.png)
 
-#### 4. Top 10 Airports
-![Top 10 Airports](Top%2010%20Airports.png)
-
-
-
-
-### **1. Correlation Matrix Heatmap**
-![Correlation Heatmap](correlation_heatmap.png)
-
-Visual analysis of relationships between different delay types, flight volumes, and cancellations to identify patterns and dependencies.
-
-### **2. Top Airlines by Delay Rate**
-![Airlines Delays](airlines_delays.png)
-
-Comparative ranking of carriers based on percentage of delayed flights, showing the top 10 airlines with highest delay rates.
-
-### **3. Top Airports by Delay Rate**
-![Airports Delays](airports_delays.png)
 
 Geographic analysis identifying the most problematic airports with highest delay percentages across the U.S.
 
-### **4. Delay Types Distribution**
-![Delay Types Pie Chart](delay_types_pie.png)
+
+#### 4. Top 10 Airports
+![Top 10 Airports](Top%2010%20Airports.png)
 
 Pie chart showing the distribution of delay causes including carrier issues, weather, NAS, security, and late aircraft arrivals.
+
+
+
+
 
 ```
 --
