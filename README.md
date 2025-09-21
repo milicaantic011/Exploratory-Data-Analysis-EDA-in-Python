@@ -99,7 +99,8 @@ Geographic analysis identifying the most problematic airports with highest delay
 
 Pie chart showing the distribution of delay causes including carrier issues, weather, NAS, security, and late aircraft arrivals.
 
----
+'''-
+--
 
 airline-delays-analysis/
 │
@@ -116,17 +117,20 @@ airline-delays-analysis/
 │   └── delay_types_pie.html
 └── README.md                               # Project documentation
 
+---
+'''
 
-Author
+
+## Author
 Milica Antic
 
 GitHub: @milicaantic011
 LinkedIn: Milica Antic
 
- License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 
 Data source: Kaggle Airline Delays Dataset
 Inspiration: Impact of COVID-19 on aviation industry
