@@ -20,9 +20,13 @@ carrier_ct — Carrier-related delays
 weather_ct — Weather-related delays
 
 nas_ct — National Airspace System delays
+
 security_ct — Security-related delays
+
 late_aircraft_ct — Late aircraft delays
+
 arr_cancelled — Cancelled flights
+
 arr_diverted — Diverted flights
 
 Tech Stack
@@ -53,11 +57,17 @@ The relative impact of different delay causes (weather, carrier, system, etc.)
  Project Structure
 
 ├── data/
+
 │   └── airline_delays.csv
+
 ├── notebooks/
+
 │   └── airline_delays_eda.ipynb
+
 ├── visualizations/
+
 │   └── [generated plots and charts]
+
 └── README.md
 
 
