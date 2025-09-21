@@ -38,10 +38,16 @@ Language: Python
 Libraries Used:
 
 pandas — Data manipulation and analysis
+
 numpy — Numerical computing
+
 plotly — Interactive visualizations
 
+
+
 Environment: Jupyter Notebook
+
+
 
 Analysis Goals
 
@@ -56,6 +62,8 @@ Pandemic Impact Assessment: Compare 2019 vs 2020 flight operations
 Root Cause Analysis: Determine primary causes of delays and cancellations
 
 
+
+
 Key Insights
 
 
@@ -68,6 +76,8 @@ Which carriers performed best/worst in terms of on-time performance
 Geographic hotspots for delays and cancellations
 
 The relative impact of different delay causes (weather, carrier, system, etc.)
+
+
 
 
 Key Visualizations
