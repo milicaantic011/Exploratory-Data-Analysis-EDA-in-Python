@@ -34,6 +34,7 @@ arr_diverted — Diverted flights
 
 Tech Stack
 Language: Python
+
 Libraries Used:
 
 pandas — Data manipulation and analysis
@@ -41,6 +42,7 @@ numpy — Numerical computing
 plotly — Interactive visualizations
 
 Environment: Jupyter Notebook
+
 Analysis Goals
 
 Delay Pattern Analysis: Identify main contributors to flight disruptions
