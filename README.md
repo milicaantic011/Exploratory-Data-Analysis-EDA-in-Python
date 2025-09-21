@@ -1,16 +1,14 @@
-# ✈️ Airline Delays Exploratory Data Analysis
+#  Airline Delays Exploratory Data Analysis
 
 **An in-depth exploratory data analysis of U.S. airline delays comparing December 2019 vs December 2020 performance using Python data analysis libraries.**
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes airline delay patterns in the United States, focusing on the comparison between **December 2019** (pre-pandemic) and **December 2020** (during pandemic) to understand how COVID-19 impacted flight operations.
 
----
-
-## 📁 Dataset Description
+## Dataset Description
 
 | **Attribute** | **Details** |
 |--------------|------------|
@@ -31,11 +29,11 @@ This project analyzes airline delay patterns in the United States, focusing on t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | **Component** | **Technology** |
 |--------------|---------------|
-| **Language** | Python 3.x |
+| **Language** | Python 3.11 |
 | **Environment** | Jupyter Notebook |
 
 ### **Libraries Used:**
@@ -45,7 +43,7 @@ This project analyzes airline delay patterns in the United States, focusing on t
 
 ---
 
-## 🎯 Analysis Goals
+## Analysis Goals
 
 1. **Delay Pattern Analysis**  
    Identify main contributors to flight disruptions
@@ -64,7 +62,7 @@ This project analyzes airline delay patterns in the United States, focusing on t
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis explores:
 - **Pandemic Impact**: How COVID-19 affected flight volumes and delay patterns
@@ -74,7 +72,7 @@ The analysis explores:
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
 
 ### **1. Correlation Matrix Heatmap**
 Visual analysis of relationships between different delay types, flight volumes, and cancellations to identify patterns and dependencies
@@ -103,7 +101,7 @@ Pie charts and bar plots showing the distribution of delay causes:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone the repository
@@ -121,7 +119,7 @@ jupyter notebook
 
 ---
 
-## 📝 Project Structure
+##  Project Structure
 
 ```
 airline-delays-analysis/
@@ -144,7 +142,7 @@ airline-delays-analysis/
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | **Metric** | **2019** | **2020** | **Change** |
 |-----------|----------|----------|------------|
@@ -155,11 +153,11 @@ airline-delays-analysis/
 
 ---
 
-## 👥 Author
+##  Author
 
-**Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+** Milica Antic**  
+- GitHub: (https://github.com/milicaantic011)
+- LinkedIn: (https://www.linkedin.com/in/milica-antic-ds/)
 
 ---
 
@@ -177,6 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last Updated: [Date]*
+*Last Updated: [21.09.2025.]*
 
 
