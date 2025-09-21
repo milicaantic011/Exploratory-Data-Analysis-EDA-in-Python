@@ -67,7 +67,7 @@ This project analyzes airline delay patterns in the United States, focusing on t
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 The analysis explores:
 - **Pandemic Impact**: How COVID-19 affected flight volumes and delay patterns
@@ -77,7 +77,9 @@ The analysis explores:
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
+
+
 
 ### **1. Correlation Matrix Heatmap**
 ![Correlation Heatmap](correlation_heatmap.png)
